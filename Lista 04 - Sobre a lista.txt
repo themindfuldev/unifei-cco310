@@ -1,0 +1,24 @@
+/*******************************************************************************
+*                                                                              *
+*   CCO310 - Classificação de Pesquisa de Dados / Prof. Sdnei Brito            *
+*   Lista 4 - Entrega: 06/05/2005                                              *
+*                                                                              *
+*   Objetivo: Testar e comparar a eficiência dos métodos de classificação:     *
+*             Fusão de duas vias, Fusão alternativa, Merge Sort e Radix Sort.  *
+*                                                                              *
+*   Nome: André Carvalho Silveira               Matrícula: 12616               *
+*   Nome: Tiago Romero Garcia                   Matrícula: 12643               *
+*   Ciência da Computação - Universidade Federal de Itajubá                    *
+*                                                                              *
+*******************************************************************************/
+
+
+
+* Na implementação do algoritmo Intercalacao(), alteramos o parâmetro de comparação
+  do for de <= para <, afim de realizar apenas a ordenação de MAX elementos, pois
+  constatamos que da maneira em que está na apostila, ocorre a ordenação de MAX+1
+  elementos, e entra em desacordo com a Análise de Desempenho.
+
+* Não faz sentido falar em número de comparações no algoritmo RadixSort(), porém
+  utilizamos o modelo teórico para determinar o número de operações de distribuição
+  de chaves.

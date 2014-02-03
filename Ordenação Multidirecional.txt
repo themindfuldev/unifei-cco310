@@ -1,0 +1,25 @@
+1. O programa gerou algum warning? (3 pontos)
+não. nota 3
+
+2. O programa possui boa identação? (7 pontos)
+sim. nota 7
+
+3. O programa está bem organizado? (15 pontos)
+sim. nota 15
+
+4. O programa está bem documentado? (10 pontos)
+sim. nota 10
+
+5. Os arquivos gerados são conforme o proposto? (10 pontos)
+sim. nota 10
+
+6. Foi feito corretamente a indexação na árvore? (10 pontos)
+sim. nota 10
+
+7. A ordenação é feita e é gerado apenas um arquivo final? (35 pontos)
+sim. nota 35
+
+8. O resultado é mostrado de forma adequada? (10 pontos)
+sim. nota 10
+
+Total: 100

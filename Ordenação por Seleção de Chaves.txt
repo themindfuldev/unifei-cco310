@@ -1,0 +1,37 @@
+1. O programa gerou alguma warning? (3 pontos)
+não. nota 3
+
+2. O programa está bem identado? (7 pontos)
+sim. nota 7
+
+3. O programa está bem organizado? (15 pontos)
+bom. nota 8. As funções RadixSort, Intercalação e FusãoAlternativa estão desorganizadas
+
+4. O programa está bem documentado? (10 pontos)
+sim. nota 10
+
+5. O programa gera os arquivos corretamente? (5 pontos)
+sim. nota 5
+
+6. O programa ordena o Arquivo_01.Dat pelo método de Fusão de Duas Vias? (10 pontos)
+sim. nota 10
+
+7. O programa ordena o Arquivo_02.Dat pelo método de Fusão de Duas Vias - Abordagem Alternativa? (10 pontos)
+sim. nota 10
+
+8. O programa ordena dois arquivos ordenados em um só pelo método Merge Sort? (8 pontos)
+não. nota 0
+
+9. O programa ordena o Arquivo_01.Dat pelo método do Radix Sort? (10 pontos)
+sim. nota 10
+
+10. Com os resultados encontrados, é possível criar uma tabela estatística sobre o resultado? ( 8 pontos)
+sim. nota 8
+
+11. Para medir o tampo de processamento, foi criado um meio para não fazer operações desnecessárias? (12 pontos)
+sim. nota 8. mas não modularizado
+
+12. O vetor ou parte do mesmo foi mostrado para verificação da correção (2 pontos)
+não. nota 0
+
+Total: 79

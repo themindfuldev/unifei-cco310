@@ -1,0 +1,66 @@
+/*******************************************************************************
+*                                                                              *
+*   CCO310 - Classificação de Pesquisa de Dados / Prof. Sdnei Brito            *
+*   Lista 3 - Entrega: 20/04/2005                                              *
+*                                                                              *
+*   Objetivos:                                                                 *
+*     1. Testar e comparar a eficiência dos métodos de classificação:          *
+*	 Seleção Direta e Heap Sort.					       *
+*     2. Computar um relatório comparativo entre todos os métodos anteriores.  *
+*                                                                              *
+*   Nome: Aluísio Moura C. dos Santos           Matrícula: 12615               *
+*   Nome: Tiago Romero Garcia                   Matrícula: 12643               *
+*   Ciência da Computação - Universidade Federal de Itajubá                    *
+*                                                                              *
+*******************************************************************************/
+
+Programa:
+
+* Foram utilizados 8000 números afim de maximizar o tempo de processamento,
+  pois utilizando 1000 números a execução se torna tão rápida que não é
+  possível detectar alguma diferença entre os tempos antes da execução e após,
+  para determinar o tempo de execução do método.
+
+* O combinado de 10000 números não se torna possível de executar no modo DOS
+  utilizando a estrutura ARQ sugerida. A maior quantidade de números possível
+  encontrada por nós foi 8000.
+
+* Para compilar o programa, deve-se utilizar o TargetExpress e fazer as modificações:
+  - Platform: DOS (Overlay)
+  - Math Support: Floating Point
+  - Libraries: BGI
+
+* Caso dê algum problema de compilação, enviamos junto o arquivo executável
+  já compilado.
+
+* Foram inclusas as seguintes linhas para a compatibilidade do floating point no modo
+  16-bit:
+extern _floatconvert;
+#pragma extref _floatconvert
+
+
+Pacote Gráfico:
+
+* As funções para relatorio estatístico e gráfico foram otimizadas para funcionarem com
+  qualquer número de métodos, definido pela constante METODOS.
+
+* Para gerar o fator de escala, foi criada a função GeraFatorEscala, que, utilizando
+  iterações sucessivas, determina um fator de escala ótimo pra caber em 300 pixels de
+  altura da tela do modo gráfico.
+
+* Ocorre um problema de impressão indevida de lixo de memória no modo gráfico. Não 
+  encontramos uma maneira de lidar com isso, então mandamos escrever o lixo de memória
+  para fora da tela.
+
+
+Relatório comparativo:
+
+* Nos programas anteriores foi inserida a versão mais nova do pacote gráfico.
+
+* Os programas foram modificados também para gerarem arquivos de relatório com nomes diferentes.
+
+* O algoritmo Shell Sort foi agora implementado de acordo com o proposto da apostila,
+  e não mais de acordo com a bibliografia anteriormente localizada.
+
+* Enviamos junto os programas anteriores afim de gerar os arquivos relatório para a utilização com
+  o relatório comparativo.

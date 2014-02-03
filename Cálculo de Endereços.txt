@@ -1,0 +1,43 @@
+1. O programa gerou alguma warning? (3 pontos)
+não. nota 3
+
+2. O programa está bem organizado? (12 pontos)
+sim. nota 6. NBão está conforme o proposto
+
+3. O programa está bem documentado? (10 pontos)
+bom. nota 6. . poderia estar melhor comentado se o cabeçalho das funções fosem indicdas
+
+4. O programa calcula o endereço pelo método da Divisão? (7 pontos)
+sim. nota 7
+
+5. O programa calcula o endereço pelo método do Meio do Quadrado? (7 pontos)
+sim. nota 7
+
+6. O programa calcula o endereço pelo método do Meio do Quadrado, com deslocamento de bits? (7 pontos)
+sim. nota 7
+
+7. O programa calcula o endereço pelo método da Dobra? (7 pontos)
+sim. nota 7
+
+8. O programa calcula o endereço pelo método da Soma? (7 pontos)
+sim. nota 7
+
+9. O programa calcula o endereço pelo método da Multiplicação? (7 pontos)
+sim. nota 7
+
+10. O programa calcula o endereço pelo método da Subtração? (7 pontos)
+sim. nota 7
+
+11. O programa calcula o endereço pelo método da Rotação? (7 pontos)
+sim. nota 7
+
+12. O programa calcula o endereço pelo método Pseudo Aleatório? (7 pontos)
+sim. nota 7
+
+13. O programa calcula o endereço pelo método da Convsersão de Base? (7 pontos)
+sim. nota 7
+
+14. O programa mostra um relatório comparativo entre os métodos? (5 pontos)
+não. nota 0. Não está conforme o proposto
+
+Total: 85

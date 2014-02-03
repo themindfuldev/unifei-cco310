@@ -1,0 +1,32 @@
+1. O programa gerou algum warning? (3 pontos)
+não. nota 3
+
+2. O programa está bem identado? (7 pontos)
+sim. nota 7
+
+3. O programa está bem organizado? (20 pontos)
+sim. nota 12. Não coloque a implementação do método duas vezes em sua chamada. Não misture abrir um arquivo, ler um arquivo e usar um método.
+
+4. O programa está bem documentado? (10 pontos)
+sim. nota 10
+
+5. O programa ordena pelo método Bubble Sort? (12 pontos)
+sim. nota 12
+
+6. O programa ordena pelo método Shake Sort? (12 pontos)
+sim. nota 12
+
+7. O programa ordena pelo método Comb Sort? (12 pontos)
+sim. nota 12
+
+8. O programa ordena pelo método Quick Sort? (12 pontos)
+sim. nota 12
+
+9. O programa gera estatísticas que mostram o resultado real das ordenações? (12 pontos)
+sim. nota 12
+
+Punição: menos 2 pontos por não mostrar o vetor ou parte dele
+
+Total: 90
+
+Desafio: nota 0

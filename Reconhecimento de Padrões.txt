@@ -1,0 +1,28 @@
+1. O programa gerou alguma warning? (3 pontos)
+não. nota 3
+
+2. O programa está bem identado? (7 pontos)
+sim. nota 7
+
+3. O programa está bem organizado? (15 pontos)
+sim. nota 15
+
+4. O programa está bem documentado? (10 pontos)
+Ruim. nota 1. Poucos cometários
+
+5. O programa exibe um texto lido de um arquivo na tela? (10 pontos),
+não. nota 0. Nem todos os textos foram possíveis de ser lidos
+
+6. O programa busca uma palavra pelo método Backtracking? (15 pontos)
+sim. nota 15
+
+7. O programa busca uma palavra pelo método de BoyerMoore? (15 pontos)
+sim. nota 15
+
+8. O programa busca uma palavra pelo método de Knuth Harris Prat? (15 pontos)
+sim. nota 15
+
+9. O programa marca no texto as palavras encontradas na pesquisa? (10 pontos)
+sim. nota 10
+
+Total: 81
